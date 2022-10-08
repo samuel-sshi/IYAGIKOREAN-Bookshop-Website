@@ -5,4 +5,4 @@ This is a simple static bookshop website to learn korean language as a concept f
 
 
 Credits:
-All media used is in this unpublished website belongs to its rightful owners.
+All media used is in this project belongs to its rightful owners.
